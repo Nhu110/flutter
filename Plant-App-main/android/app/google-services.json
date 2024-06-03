@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640602564943",
+    "project_id": "plant-firebase-73f6d",
+    "storage_bucket": "plant-firebase-73f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640602564943:android:a577666f5f1046cd35fd3a",
+        "android_client_info": {
+          "package_name": "com.example.plant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPzTTcQFiB_pRhgkEfOrhfN-Z8LhGEFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
